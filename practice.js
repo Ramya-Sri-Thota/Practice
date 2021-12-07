@@ -231,12 +231,3 @@
 //   console.log(...rest);
 // }
 // exm(1, 2, 3, 4, 5, 6);
-
-function abc() {
-  console.log("haiii");
-}
-function xyz(abc) {
-  console.log("hai ramya");
-  abc();
-}
-xyz(abc);
